@@ -1,0 +1,10 @@
+{
+  "url": "https://yourdomain.com",
+  "name": "TON Tip Chat",
+  "iconUrl": "https://yourdomain.com/logo.png",
+  "termsOfUseUrl": "https://yourdomain.com/terms",
+  "privacyPolicyUrl": "https://yourdomain.com/privacy",
+  "developer": "Your Dev Name or Team",
+  "bridgeUrl": "https://bridge.tonapi.io/bridge",
+  "connectivity": "ton-connect"
+}
